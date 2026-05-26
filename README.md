@@ -28,9 +28,12 @@ Aquí puedes echar un vistazo a los desarrollos en los que he estado trabajando:
   </div>
 
 ## 📫 Contacto
+
 <div align="justify">
 ¿Quieres que colaboremos en un proyecto o tienes alguna idea y quieres transformala? ¡Escríbeme!
 </div>
+
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-catalan-81b7753b7/)
 [![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielca329@gmail.com)
