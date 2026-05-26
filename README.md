@@ -21,3 +21,7 @@ Aquí puedes echar un vistazo a los desarrollos en los que he estado trabajando:
 * 🔨 **[FerreFix - Sistema de Microservicios](https://github.com/arcatalanm/ms-ferreteria)**
   Solución de arquitectura de microservicios diseñada para modernizar la administración en el rubro ferretero. Cuenta con API Gateway centralizada, validador automático de RUT y una infraestructura completamente automatizada con Docker Compose.
   *Tecnologías: Java, Spring Boot, Docker, MySQL, Bash Scripting, Powershell*
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-catalan-81b7753b7/)
+[![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielca329@gmail.com)
