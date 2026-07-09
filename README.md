@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Ariel
 
 <div align="justify">
-Estudiante de Informática en <b>Duoc UC</b>, enfocado en el desarrollo Backend e Infraestructura. Me dedico al diseño de arquitecturas limpias utilizando microservicios, entornos dockerizados y bases de datos relacionales. Siempre busco aprender nuevas tecnologías, aplicar las mejores prácticas de desarrollo y construir software escalable y eficiente.
+Estudiante de Informática en <b>Duoc UC</b>, enfocado en el desarrollo Backend e Infraestructura. Me dedico al diseño de arquitecturas limpias utilizando microservicios, entornos dockerizados, scripts de automatización, bases de datos relacionales y plataformas de despligue en la nube. Siempre busco aprender nuevas tecnologías, aplicar las mejores prácticas de desarrollo y construir software escalable y eficiente.
 </div>
 
 ---
@@ -21,9 +21,10 @@ Aquí puedes echar un vistazo a los desarrollos en los que he estado trabajando:
 </div>
 <br>
 
-* 🔨 **[FerreFix - Sistema de Microservicios](https://github.com/arcatalanm/ms-ferreteria)**
+* 🔨 **[Ferrefix - Sistema de Microservicios](https://github.com/arcatalanm/ms-ferreteria)**
   <div align="justify">
-  Solución de arquitectura de microservicios diseñada para modernizar la administración en el rubro ferretero. Cuenta con API Gateway centralizada, validador automático de RUT y una infraestructura completamente automatizada con Docker Compose.
+  Plataforma escalable de microservicios para el rubro ferretero. Implementa un API Gateway centralizado con
+  seguridad JWT, patrón Database-per-Service y despliegue automatizado mediante Docker Compose.
   <i>Tecnologías: Java, Spring Boot, Docker, MySQL.</i>
   </div>
 
